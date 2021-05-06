@@ -1,2 +1,3 @@
 # Data-Mining
-Data MIning  projects
+Data Mining  projects
+Sample data mining projects
